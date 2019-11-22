@@ -1,0 +1,21 @@
+.9point {
+	FONT-SIZE: 9pt; TEXT-DECORATION: none
+}
+.9k {
+	FONT-SIZE: 9pt; LINE-HEIGHT: 20px
+}
+A:hover {
+	TEXT-DECORATION: none
+}
+A:active {
+	TEXT-DECORATION: none
+}
+A:link {
+	TEXT-DECORATION: none
+}
+A:visited {
+	TEXT-DECORATION: none
+}
+.yinying {
+	FONT-SIZE: 9pt; FILTER: DropShadow(Color=#eeeeee,OffX=2,OffY=1,); HEIGHT: 20pt; TEXT-DECORATION: none
+}
